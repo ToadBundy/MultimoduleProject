@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="713b85ad-3b51-4c7b-bf50-9637255353b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Service/src/main/java/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Service/src/main/java/PhoneUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewApp/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewApp/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldApp/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldApp/src/main/resources/logback.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/src/main/java/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service/src/main/java/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/src/main/java/PhoneUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service/src/main/java/PhoneUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +43,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "corretto-11"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-11&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OldApp/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Runner (1)">
+    <configuration name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="OldApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="NewApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner (1)" />
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

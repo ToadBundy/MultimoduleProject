@@ -10,6 +10,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>Service</module>
+        <module>OldApp</module>
+        <module>NewApp</module>
     </modules>
 
     <properties>
